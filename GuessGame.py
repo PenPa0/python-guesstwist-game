@@ -21,7 +21,7 @@ number_of_guess = 5
 from random import choice
 
 
-player = input("Register Name: ").title()
+player = input("Kawatan: ").title()
 
 print("\n\n\n")
 
